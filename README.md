@@ -1,0 +1,2 @@
+# Julia-for-Machine-Learning
+Julia provides powerful tools for deep learning (Flux.jl and Knet.jl), machine learning and AI. Julia’s mathematical syntax makes it an ideal way to express algorithms just as they are written in papers, build trainable models with automatic differentiation, GPU acceleration and support for terabytes of data with JuliaDB.  Julia's rich machine learning and statistics ecosystem includes capabilities for generalized linear models, decision trees, and clustering. You can also find packages for Bayesian Networks and Markov Chain Monte Carlo.
